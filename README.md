@@ -1,2 +1,2 @@
 # odin-recipes
-This is a recipe project that requires me to showcase all that I have learned so far in The Odin Project course on HTML. On completion of this project, I will have demonstrated my ability to create a basic website.
+This is a simple recipe project that requires one to showcase all that they have learned so far in The Odin Project course on HTML. On completion of this project, I will have demonstrated basic grasp on HTML and ability to create a basic web page.
